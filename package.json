@@ -1,0 +1,26 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "Es mi pagina de presentacion personal",
+  "main": "controllers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegonieto98/MY-WEBSITE.git"
+  },
+  "author": "Diego Nieto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegonieto98/MY-WEBSITE/issues"
+  },
+  "homepage": "https://github.com/diegonieto98/MY-WEBSITE#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  }
+}
